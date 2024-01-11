@@ -22,7 +22,7 @@ fetch('jogadores-Cruzeiro.json')
     <img class="escudo" src="images/escudo/Cruzeiro_Esporte_Clube_(logo).svg.png" alt="" />
     <h2 class="nomeJogador">${jogador.nome}</h2>
     <h3 class="numerojogador">${jogador.numero}</h3>
-    <h4 class="peDominante">${jogador.pe}</h4>
+    <h3 class="peDominante">${jogador.pe}</h3>
     `
 })
 )
