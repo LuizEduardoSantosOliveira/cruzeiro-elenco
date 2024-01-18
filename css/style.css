@@ -5,14 +5,12 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Bebas Neue', sans-serif;
-    
 }
 
 h1{
     text-align: center;
     color: yellow;
     margin-block: 5px;
-    
 }
 
 body{
@@ -22,7 +20,6 @@ body{
 .cards{
     max-width: 1280px;
     margin-inline: auto;
-
     display: flex;
     flex-wrap: wrap;
     gap:10px;
@@ -36,11 +33,9 @@ body{
     background: #2B519F;
     border-radius: 5px;
     position: relative;
-
     border-width: 3px;
     border-style: solid; 
     border-color:#F0BB0F;
-
     display: flex;
     align-items: center;
     justify-content: center;
@@ -50,12 +45,6 @@ body{
     font-size: 30px;
     color: yellow;
     text-shadow: -1px -1px 0 black;
-    
-    
-    
-
-    
-    
 }
 .numerojogador{
     font-size: 25px;
@@ -78,8 +67,7 @@ body{
     height: 40px;
     position: absolute;
     right: 7px;
-   top: 60px;
-   
+    top: 60px;
 }
 
 .peDominante{
